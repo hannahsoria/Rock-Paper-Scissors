@@ -2,4 +2,4 @@
 
 Rock Paper Scissors game created using JavaScript
 
-https://github.com/hannahsoria/Rock-Paper-Scissors/assets/113323340/7505a0c6-8ea2-48db-98bb-0108f3b6eabb
+https://github.com/hannahsoria/Rock-Paper-Scissors/assets/113323340/98dffd06-7565-40bb-8730-8edc4161ab7b
